@@ -15,8 +15,6 @@ public class Mirror {
             result[v] = p;
         }
 
-
-
         return result;
     }
 
