@@ -106,7 +106,7 @@ public class Questions {
 
             // processing
 
-            while ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z'){
+            while ((ch >= 'a' && ch <= 'z') || (ch >= 'A' && ch <= 'Z')){
                 if (i % 2 == 0){
                     ch = (char)(ch-1);
                 } else {
