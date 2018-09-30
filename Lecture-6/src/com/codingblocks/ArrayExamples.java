@@ -4,6 +4,10 @@ import java.util.Arrays;
 
 public class ArrayExamples {
     public static void main(String[] args) {
+
+        int[] nums = {12, 123, 6, 345, 34, 67};
+
+        System.out.println(findFirst(nums, 0, 6));
     }
 
     public static boolean isSorted(int[] nums, int index){
@@ -29,5 +33,17 @@ public class ArrayExamples {
         }
 
         return nums[index] == item || contains(nums, index+1, item);
+    }
+
+    public static int findFirst(int[] nums, int index, int item){
+        if (index == nums.length){
+            return -1;
+        }
+
+        if (nums[index] == item){
+            return index;
+        } else {
+            return findFirst(nums, index+1, item);
+        }
     }
 }
