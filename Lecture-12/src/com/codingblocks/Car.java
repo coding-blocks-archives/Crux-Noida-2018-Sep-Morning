@@ -1,6 +1,6 @@
 package com.codingblocks;
 
-class Car extends Vehicle{
+public class Car extends Vehicle{
 
     int wheels = 4;
 
