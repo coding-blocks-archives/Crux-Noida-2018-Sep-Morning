@@ -13,6 +13,6 @@ public class Main {
         bst.insert(15);
         bst.insert(7);
 
-        bst.display();
+        bst.levelOrder();
     }
 }
