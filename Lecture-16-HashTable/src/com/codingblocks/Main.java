@@ -7,9 +7,11 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Map<String, String> dict = new HashMap<>();
+        MapLinkedList<String, String> dict = new MapLinkedList<>();
 
         dict.put("apple", "a sweet red fruit");
+
+        System.out.println("help".hashCode());
 
         dict.put("mango", "king of fruits");
 
