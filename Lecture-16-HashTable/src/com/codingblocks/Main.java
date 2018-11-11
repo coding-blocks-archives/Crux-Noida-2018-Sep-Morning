@@ -10,7 +10,10 @@ public class Main {
         Map<String, String> dict = new HashMap<>();
 
         dict.put("apple", "a sweet red fruit");
+
         dict.put("mango", "king of fruits");
+
+        dict.put("mango", "queen of fruits");
 
         System.out.println(dict.get("apple"));
 
