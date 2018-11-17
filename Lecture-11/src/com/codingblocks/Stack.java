@@ -2,7 +2,7 @@ package com.codingblocks;
 
 public class Stack {
 
-    private int[] data;
+    protected int[] data;
     private int top = -1;
 
     private static final int DEFAULT_SIZE = 5;

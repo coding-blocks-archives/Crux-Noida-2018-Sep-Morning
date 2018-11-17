@@ -8,6 +8,10 @@ public class Main {
     public static void main(String[] args) {
 	// write your code here
 
+        int a = 345;
+
+        int len = Integer.toString(a).length();
+
         BinarySearchTree<Integer> bst = new BinarySearchTree<>();
 
 //        bst.insert(10);

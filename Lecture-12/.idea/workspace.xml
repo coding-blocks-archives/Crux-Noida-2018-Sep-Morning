@@ -2,20 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62378966-9be0-4fa5-af59-4030aea57540" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DQClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DSClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DynamicQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DynamicStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/infs/CBStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/infs/CBTA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/infs/CBTeacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/infs/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/infs/Human.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/infs/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/infs/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/infs/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/infs/TA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/infs/Teacher.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-10/src/com/codingblocks/ds/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/src/com/codingblocks/ds/Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-10/src/com/codingblocks/ds/StackClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/src/com/codingblocks/ds/StackClient.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-10/src/com/codingblocks/insaan/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/src/com/codingblocks/insaan/Human.java" afterDir="false" />
@@ -23,11 +9,13 @@
       <change beforePath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/QueueCircular.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/QueueCircular.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/Stack.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/poly/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/poly/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DQClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DQClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DSClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DSClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DynamicQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DynamicQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DynamicStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DynamicStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/QueueCircular.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/QueueCircular.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/Stack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/codingblocks/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/codingblocks/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/sid/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sid/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-7/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-8/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lecture-9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-9/.idea/workspace.xml" afterDir="false" />
@@ -43,7 +31,7 @@
     <session id="2127161222">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.opened" value="2" />
@@ -77,7 +65,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/infs/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -98,7 +86,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Car.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="286">
-              <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+              <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
               <folding>
                 <element signature="e#115#116#0" expanded="true" />
                 <element signature="e#166#167#0" expanded="true" />
@@ -115,7 +103,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/infs/Human.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="410">
-              <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
               <folding>
                 <element signature="e#239#240#0" expanded="true" />
                 <element signature="e#265#266#0" expanded="true" />
@@ -168,7 +156,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/sid/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -270,12 +258,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540712113995" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540716363108" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.infs" />
       <recent name="com.codingblocks" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/extras" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -339,9 +330,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.254717" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.254717" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -500,7 +491,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/sid/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -514,7 +505,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="286">
-          <caret line="13" column="41" lean-forward="true" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
+          <caret line="13" column="41" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="41" />
           <folding>
             <element signature="e#115#116#0" expanded="true" />
             <element signature="e#166#167#0" expanded="true" />
@@ -543,7 +534,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/infs/Human.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="410">
-          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
           <folding>
             <element signature="e#239#240#0" expanded="true" />
             <element signature="e#265#266#0" expanded="true" />
@@ -572,7 +563,7 @@
     <entry file="file://$PROJECT_DIR$/src/com/infs/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
