@@ -2,43 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6b0ba9d4-8e5a-4448-af51-de236fcf17c4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Lecture-16-HashTable/src/com/codingblocks/Examples.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Lecture-18.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lecture-18.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/untitled104/com/codingblocks/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/codingblocks/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled104.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-10/src/com/codingblocks/ds/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/src/com/codingblocks/ds/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-10/src/com/codingblocks/ds/StackClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/src/com/codingblocks/ds/StackClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-10/src/com/codingblocks/insaan/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-10/src/com/codingblocks/insaan/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/QueueCircular.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/QueueCircular.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/Stack.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/Stack.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/poly/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/out/production/Lecture-11/com/codingblocks/poly/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DQClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DQClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DSClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DSClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DynamicQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DynamicQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DynamicStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/DynamicStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/QueueCircular.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/QueueCircular.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-11/src/com/codingblocks/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-12/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-12/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-13-LinkedList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-13-LinkedList/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-14-Binary-Tree/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-14-Binary-Tree/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-15-BST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15-BST/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-15-BST/src/com/codingblocks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-15-BST/src/com/codingblocks/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-16-HashTable/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16-HashTable/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-16-HashTable/out/production/Lecture-16-HashTable/com/codingblocks/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16-HashTable/out/production/Lecture-16-HashTable/com/codingblocks/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-16-HashTable/src/com/codingblocks/HashTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16-HashTable/src/com/codingblocks/HashTable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-16-HashTable/src/com/codingblocks/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-16-HashTable/src/com/codingblocks/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-7/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-7/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-8/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-8/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Lecture-9/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lecture-9/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codingblocks/Dice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codingblocks/EggDrop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codingblocks/LCSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/codingblocks/Maze.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,29 +25,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="424" />
+          <entry key="java" value="2925" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="424" />
+          <entry key="JAVA" value="2925" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="1" />
+          <entry key="java" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="1" />
+          <entry key="JAVA" value="5" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-1082">
@@ -87,6 +55,55 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Maze.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Dice.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-402">
+              <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+              <folding>
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#126#127#0" expanded="true" />
+                <element signature="method#dice#0;class#Dice#0" />
+                <element signature="method#diceDP#1;class#Dice#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/LCSequence.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="646">
+              <caret line="79" column="52" selection-start-line="79" selection-start-column="52" selection-end-line="79" selection-end-column="52" />
+              <folding>
+                <element signature="e#119#120#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/codingblocks/EggDrop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="222">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -102,6 +119,13 @@
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -109,6 +133,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/com/codingblocks/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/Maze.java" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/Dice.java" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/LCSequence.java" />
+        <option value="$PROJECT_DIR$/src/com/codingblocks/EggDrop.java" />
       </list>
     </option>
   </component>
@@ -121,14 +149,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Lecture-18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lecture-18" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lecture-18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lecture-18" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Lecture-18" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Lecture-18" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="codingblocks" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="AndroidView" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542448957051" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542527706159" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -142,7 +191,46 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.EggDrop">
+    <configuration name="Dice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Dice" />
+      <module name="Lecture-18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EggDrop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.EggDrop" />
+      <module name="Lecture-18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LCSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.LCSequence" />
+      <module name="Lecture-18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.codingblocks.Main" />
       <module name="Lecture-18" />
@@ -153,8 +241,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Maze" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.codingblocks.Maze" />
+      <module name="Lecture-18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.codingblocks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Maze" />
+      <item itemvalue="Application.Dice" />
+      <item itemvalue="Application.LCSequence" />
+      <item itemvalue="Application.EggDrop" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.EggDrop" />
+        <item itemvalue="Application.LCSequence" />
+        <item itemvalue="Application.Dice" />
+        <item itemvalue="Application.Maze" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -174,21 +286,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963716" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.24963716" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32954547" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4520202" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33080807" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -221,6 +334,47 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Maze.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="31" column="47" selection-start-line="31" selection-start-column="47" selection-end-line="31" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/Dice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-402">
+          <caret line="6" column="43" selection-start-line="6" selection-start-column="43" selection-end-line="6" selection-end-column="43" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#126#127#0" expanded="true" />
+            <element signature="method#dice#0;class#Dice#0" />
+            <element signature="method#diceDP#1;class#Dice#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/LCSequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="79" column="52" selection-start-line="79" selection-start-column="52" selection-end-line="79" selection-end-column="52" />
+          <folding>
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/codingblocks/EggDrop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
